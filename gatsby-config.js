@@ -10,10 +10,14 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://blog.joeychen.xyz',
       },
       {
-        name: 'About',
+        name: 'Github',
+        url: 'https://github.com/C-Joey',
+      },
+      {
+        name: 'About Project',
         url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
       },
     ],
